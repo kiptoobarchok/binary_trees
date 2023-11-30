@@ -67,3 +67,12 @@ Note: For tasks 0 to 23 (included), you have to deal with simple binary trees. T
 To match the examples in the tasks, you are given [this function](https://github.com/alx-tools/0x1C.c)
 
 This function is used only for visualization purposes. You don’t have to push it to your repo. It may not be used during the correction
+
+Functions to print binary trees in a pretty way
+
+                            .----------------------(006)-------.
+                        .--(001)-------.                   .--(008)--.
+                    .--(-02)       .--(003)-------.       (007)     (009)
+        .-------(-06)          (002)       .--(005)
+    .--(-08)--.                           (004)
+    (-09)     (-07)
