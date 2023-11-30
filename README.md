@@ -1,8 +1,8 @@
 # 0x1D. C - Binary trees
-***C***
-***Group project***
-***Algorithm***
-***Data structure***
+***___C___***
+***___Group project___***
+***___Algorithm___***
+***___Data structure***
 
 
 ## Resources
